@@ -37,10 +37,10 @@
 
   <ItemGroup>
     <Reference Include="Landis.Library.Metadata-v2">
-      <HintPath>..\..\Support-Library-Dlls-v8\Landis.Library.Metadata-v2.dll</HintPath>
+      <HintPath>..\..\Core-Model-v8-LINUX\build\extensions\Landis.Library.Metadata-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.UniversalCohorts-v1">
-      <HintPath>..\..\Support-Library-Dlls-v8\Landis.Library.UniversalCohorts-v1.dll</HintPath>
+      <HintPath>..\..\Core-Model-v8-LINUX\build\extensions\Landis.Library.UniversalCohorts-v1.dll</HintPath>
     </Reference>
   </ItemGroup>
   
