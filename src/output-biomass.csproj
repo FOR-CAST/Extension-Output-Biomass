@@ -23,6 +23,7 @@
     <PackageTags>LANDIS-II;Landis;Extension;Output Biomass</PackageTags>
     <Description>Output Biomass Extension</Description>
     <PackageReleaseNotes>.NET Standard 2.0 update</PackageReleaseNotes>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
 
